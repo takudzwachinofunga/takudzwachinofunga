@@ -11,10 +11,10 @@ I don’t know everything… yet.
 But I’ll learn anything I need to get your project done and I’ll learn it fast.  
 
 I’m here to **build things that matter**:
-- Autonomous AI fixed-wing drone for waste detection ✅
-- Autonomous vehicles — drones, cars, anything that moves and thinks 🤖
+- Autonomous AI fixed-wing drone for waste detection 
+- Autonomous vehicles — drones, cars, anything that moves and thinks 
 - AI-powered applications — chatbots, agents, workflows
-- Automating every repetitive task possible with AI — because if you’re not, you’re slowing down 🚦
+- Automating every repetitive task possible with AI — because if you’re not, you’re slowing down 
 
  🛠 Core Skills
 - C++
