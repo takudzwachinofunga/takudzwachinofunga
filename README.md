@@ -1,7 +1,7 @@
 🚀 Hey, I’m Tkay ---- 21, Engineering, Humble but Dangerous with Code  
 
-> Never worked for free  — so no, you won’t find me with a bunch of random public repos.  
-> Never written bad code — if you want proof, let's have a coding competition.  
+> Never worked for free---so no, you won’t find me with a bunch of random public repos.  
+> Never written bad code---if you want proof, let's have a coding competition.  
 > 📩 Reach me: takudzwachinofunga16 
 
 
